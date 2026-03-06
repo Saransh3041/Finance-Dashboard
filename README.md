@@ -93,13 +93,14 @@ The dashboard provides a clear overview of the company’s financial performance
 ![Finance Overview](images/All_KPs.png)
 
 ### Revenue & Profit Trend
-![Revenue Trend](images/revenue_profit_trend.png)
+![Revenue Trend](images/Revenue_Trend.png)
 
 ### Cash Flow Waterfall
 ![Cash Flow](images/Cash_flow_waterfall.png)
 
 ### Credit Risk Analysis
-![Credit Risk](images/credit_risk.png)
+![Credit Risk](images/Credit_Risk.png)
+
 ### Variance Analysis
 ![Credit Risk](images/Variance.png)
 
