@@ -6,18 +6,18 @@ It enables stakeholders to monitor monthly trends, compare performance against b
 ## Tools Used
 
 
--Power BI – Dashboard design, KPI calculation, and visualization
--Excel – Data cleaning, transformation, and modeling
--DAX – Custom measures for financial KPIs
--Power Query – Data loading and shaping
+- Power BI – Dashboard design, KPI calculation, and visualization
+- Excel – Data cleaning, transformation, and modeling
+- DAX – Custom measures for financial KPIs
+- Power Query – Data loading and shaping
 
 ## Objectives
 
 To analyze and visualize the company’s financial performance over time, focusing on:
 
--Revenue growth trends
--Gross profit and EBITDA margins
--Budget vs actual performance
--Cash flow movement
--Product/service-wise revenue distribution
--Receivables efficiency
+- Revenue growth trends
+- Gross profit and EBITDA margins
+- Budget vs actual performance
+- Cash flow movement
+- Product/service-wise revenue distribution
+- Receivables efficiency
