@@ -61,6 +61,22 @@ To analyze and visualize the company’s financial performance over time, focusi
 | Revenue By Product | Shows which products contribute the most to total revenue. |
 | Credit Risk | Helps identify the level of risk in receivables based on ageing and payment delays. |
 
+## Insights
+
+•	Revenue Trend
+EBIT Trend increases around 8% by December with steady market fluctuation in revenue.
+•	Product Performance
+Each Product contributes almost equally into total revenue with Product C and Service X have higher EBIT%.
+•	Receivable Risk
+Company’s 70% receivables are short-term (below 40 day) reflect the efficient working capital management.
+•	Cash Flow
+Company’s Total Net cash has been increased by 82% by the end of year reflect the strong positive cash flow.
+•	Location
+North region contributed highest in Total Revenue as well as EBIT.
+•	Variance Analysis
+Budgeted variance slightly increases with 7.5% by the current years.
+
+## Action Plan
 
 
 
