@@ -63,23 +63,29 @@ To analyze and visualize the company’s financial performance over time, focusi
 
 ## Insights
 
-•	Revenue Trend
+-	Revenue Trend
 EBIT Trend increases around 8% by December with steady market fluctuation in revenue.
-•	Product Performance
+-	Product Performance
 Each Product contributes almost equally into total revenue with Product C and Service X have higher EBIT%.
-•	Receivable Risk
+-	Receivable Risk
 Company’s 70% receivables are short-term (below 40 day) reflect the efficient working capital management.
-•	Cash Flow
+-	Cash Flow
 Company’s Total Net cash has been increased by 82% by the end of year reflect the strong positive cash flow.
-•	Location
+-	Location
 North region contributed highest in Total Revenue as well as EBIT.
-•	Variance Analysis
+-	Variance Analysis
 Budgeted variance slightly increases with 7.5% by the current years.
 
 ## Action Plan
 
+-	Implement a quarterly variance review framework to identify key cost or revenue gaps o bring variance back within the targeted threshold.
+-	Maintain the strong collection cycle by introducing early-payment incentives for key customers and deploying automated follow-up alerts to prevent aging slippage.
+-	Conduct the detail cost analysis to know more about hidden expences and non-adding value. 
+-	Leverage the strong cash position by reinvesting it in high return assets to maintain company revenue and profitability.
 
+## Conclusion
 
+The dashboard provides a clear overview of the company’s financial performance by analyzing revenue, profit, cash flow, and credit risk. It helps track key financial trends, compare actual results with budget, and identify important business insights. Overall, the dashboard supports quick analysis and better financial decision-making.
 
 
 
