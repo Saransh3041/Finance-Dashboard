@@ -87,7 +87,19 @@ Budgeted variance slightly increases with 7.5% by the current years.
 
 The dashboard provides a clear overview of the company’s financial performance by analyzing revenue, profit, cash flow, and credit risk. It helps track key financial trends, compare actual results with budget, and identify important business insights. Overall, the dashboard supports quick analysis and better financial decision-making.
 
+## Dashboard Preview
 
+### Finance Overview
+![Finance Overview](images/All KPs.png)
+
+### Revenue & Profit Trend
+![Revenue Trend](images/revenue_profit_trend.png)
+
+### Cash Flow Waterfall
+![Cash Flow](images/Cash flow waterfall.png)
+
+### Credit Risk Analysis
+![Credit Risk](images/credit_risk.png)
 
 
 
