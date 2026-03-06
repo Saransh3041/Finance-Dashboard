@@ -90,7 +90,7 @@ The dashboard provides a clear overview of the company’s financial performance
 ## Dashboard Preview
 
 ### Finance Overview
-![Finance Overview](images/All KPs.png)
+![Finance Overview](images/All_KPs.png)
 
 ### Revenue & Profit Trend
 ![Revenue Trend](images/revenue_profit_trend.png)
