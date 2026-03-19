@@ -89,7 +89,8 @@ The dashboard provides a clear overview of the company’s financial performance
 
 ## Dashboard Preview
 
-![Credit Risk](images/Finance_Dashboard.png)
+![Credit Risk](Finance_Dashboard/Finance_dashboard.png)
+![Credit Risk](Finance_Dashboard/Finance_dashboard.png)
 
 
 
