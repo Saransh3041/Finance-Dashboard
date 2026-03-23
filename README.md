@@ -92,6 +92,12 @@ The dashboard provides a clear overview of the company’s financial performance
 ![Credit Risk](Finance_Dashboard/Finance_dashboard.png)
 ![Credit Risk](Finance_Dashboard/Product_dashboard.png)
 
+## Autor
+**Saransh Goyal**  
+**Email:** goyalsaransh61@gmail.com  
+**LinkedIn:** [linkedin.com/in/saranshgoyal007](https://www.linkedin.com/in/saranshgoyal007/)  
+**GitHub:** [github.com/Saransh3041](https://github.com/Saransh3041)
+
 
 
 
